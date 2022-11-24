@@ -44,7 +44,7 @@ export default function Home({ session }: any) {
             )}
 
             <h1 className="text-2xl mt-10 mb-3 flex flex-wrap sm:justify-center justify-start">
-                <span className="mr-2">Let's destroy Elon Mask data monopoly with</span>
+                <span className="mr-2">Let's destroy Elon Musk data monopoly with</span>
                 <img
                     src="https://uploads-ssl.webflow.com/626fee97e03eed4b123c6e3e/627e59fa160d1313444caabe_subsocial-logo.svg"
                     loading="lazy"
@@ -62,7 +62,7 @@ export default function Home({ session }: any) {
                 {!session && (
                     <>
                         <span className="mr-3 mb-2">
-                        Let's start our journey. First, please sign in in this old fashioned
+                        Let's start our journey. First, please sign in on this old fashioned
                         social media with a bird on a logo
                         </span>
                         <Button
