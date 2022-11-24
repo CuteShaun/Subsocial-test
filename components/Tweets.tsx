@@ -32,5 +32,5 @@ export const Tweets = () => {
                     ))}
                 </Feed>
         );
-    } else return <><p>If you want see tweets, please relogin, current session is expired</p></>;
+    } else return null;
 };
