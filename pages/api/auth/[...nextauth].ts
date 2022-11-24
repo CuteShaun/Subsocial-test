@@ -8,9 +8,6 @@ const {
     NEXTAUTH_SECRET = "",
 } = process.env;
 
-
-console.log(TWITTER_CONSUMER_KEY, "TWITTER KEYYYYYYY");
-
 export const authOptions: NextAuthOptions = {
     providers: [
         TwitterProvider({
