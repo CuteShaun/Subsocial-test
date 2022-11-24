@@ -8,4 +8,4 @@ Open [subsocial-test.vercel.app](https://subsocial-test.vercel.app/) to see the 
 
 You are awesome, enjoy!
 
-![random cat image](https://cataas.com/cat?width=200)
+![random cat image](https://cataas.com/cat)
